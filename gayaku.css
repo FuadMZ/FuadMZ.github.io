@@ -1,0 +1,19 @@
+.jumbotron img{
+    
+    width: 180px;
+    border: 4px solid #433;
+}
+.jumbotron p{
+    color: darkgreen;
+}
+
+.portofolio{
+    background-color: darkturquoise;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    min-height: 20px;
+    padding: 25px;
+}
