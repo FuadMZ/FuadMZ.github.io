@@ -1,7 +1,12 @@
-.jumbotron img{
-    
+.gambar{
+
     width: 250px;
     border: 4px ;
+    position: absolute; 
+    z-index: 1;
+    top: 100px;
+    margin-left:45.5%;
+   
 }
 .jumbotron p{
     color:white;
