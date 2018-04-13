@@ -1,41 +1,46 @@
-.gambar{
+.gambar {
 
     width: 250px;
-    border: 4px ;
-    position: absolute; 
+    border: 4px;
+    position: absolute;
     z-index: 1;
     top: 100px;
-    margin-left:45.5%;
-   
+    margin-left: 45.5%;
+
 }
-.jumbotron p{
-    color:white;
+
+.jumbotron p {
+    color: white;
     text-align: left;
 }
 
 .jumbotron {
-    background-color:aqua;
+    background-color: aqua;
 }
 
 .img {
-     width: 180px;
+    width: 180px;
     border: 4px solid #433;
     align-content: center;
 }
 
-.hrhr{
+.hrhr {
     width: 250px;
     border-top: 6px solid #333;
-    
+
+}
+
+.hr {
+    width: 150;
+    border-top: 4px solid #333;
 }
 
 
-
-.portofolio{
+.portofolio {
     background-color: darkturquoise;
 }
 
-.footer{
+.footer {
     background-color: black;
     color: white;
     max-height: 35px;
@@ -46,8 +51,3 @@
 .isi {
     padding: 50px;
 }
-
-
-
-
-
